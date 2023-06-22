@@ -1,6 +1,6 @@
-# AWS EC2 Instance Terraform module
+# AWS EC2 Instance Terraform for you
 
-Terraform module which creates an EC2 instance on AWS.
+Terraform module which creates an EC2 instance on azure.
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
